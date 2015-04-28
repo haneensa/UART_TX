@@ -1,0 +1,7 @@
+work	"TOP.vhd"
+work	"UART_TOP.vhd"
+work	"baud_generator.vhd"
+work	"ipcore_dir/clock66M.vhd"
+work	"ipcore_dir/clock66M/example_design/clock66M_exdes.vhd"
+work	"ipcore_dir/memory.vhd"
+work	"uart_basic.vhd"

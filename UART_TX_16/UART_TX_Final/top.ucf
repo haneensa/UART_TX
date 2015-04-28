@@ -1,0 +1,15 @@
+# Reset
+NET "Reset" LOC = "P4" |IOSTANDARD=LVCMOS25;  #btn_west on board sw6
+NET "reset" CLOCK_DEDICATED_ROUTE = FALSE;
+
+# Transmit Enable
+NET "tx_en" LOC = "F6" |IOSTANDARD=LVCMOS25;  #btn_west on board sw6
+
+#NET "tx_en" LOC = "D14" |IOSTANDARD=LVCMOS25;  #btn_west on board sw6
+
+# USB UART Connector
+NET "Tx" LOC = "L12" |IOSTANDARD=LVCMOS25; # Bank = 0, Pin name = IO_L66P_SCP1, Sch name = USBB-TXD
+
+# clock pin for Atlys rev C board
+NET "usr_clk"   LOC = "V10" |IOSTANDARD=LVCMOS25; # Bank = 1, Pin name = IO_L42P_GCLK7_M1UDM, Type = GCLK, Sch name = GCLK
+ 

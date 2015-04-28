@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/pc/Documents/CAPSTONE/UART/uart_tx_final/UART_TX_Final/top_tb_isim_beh.exe" -prj "C:/Users/pc/Documents/CAPSTONE/UART/uart_tx_final/UART_TX_Final/top_tb_beh.prj" "work.top_tb" 

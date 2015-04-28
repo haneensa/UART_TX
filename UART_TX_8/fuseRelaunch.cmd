@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/pc/Documents/CAPSTONE/UART/UART_TX_Final_v1/memory_tb_isim_beh.exe" -prj "C:/Users/pc/Documents/CAPSTONE/UART/UART_TX_Final_v1/memory_tb_beh.prj" "work.memory_tb" 

@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Users\pc\Documents\UART\UART\UART_TX\UART_TX_Final\impact.xsl
+OUTFILE=C:\Users\pc\Documents\UART\UART\UART_TX\UART_TX_Final\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=C:\Users\pc\Documents\UART\UART\UART_TX\UART_TX_Final
+LICENSE=iMPACT
+USER_INFO=iMPACT
