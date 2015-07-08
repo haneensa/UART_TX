@@ -1,0 +1,4 @@
+NET USB_RS232_RXD     LOC = L12  | IOSTANDARD = LVCMOS33;               # "USB_1_RX"
+NET USB_RS232_TXD     LOC = K14  | IOSTANDARD = LVCMOS33;               # "USB_1_TX"
+  
+NET CLOCK_Y3          LOC = V10; #USER_CLOCK
