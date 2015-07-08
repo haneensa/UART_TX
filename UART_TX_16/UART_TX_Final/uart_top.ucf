@@ -1,4 +1,0 @@
-# onBoard Leds
-NET "LED<0>" LOC = "E13"; # Pin name = IO_L52N_M1DQ15, 	   Sch name = LD0
-NET "LED<1>" LOC = "C14"; #  Pin name = IO_L53P, 		 	   Sch name = LD1
-   

@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=C:\Users\Administrator\Desktop\ECE492\HaneenWork\uart_tx-master_v2\UART_TX_Final\UART_TOP.ncd
-OUTFILE=C:\Users\Administrator\Desktop\ECE492\HaneenWork\uart_tx-master_v2\UART_TX_Final\UART_TOP.bit
-FAMILY=Spartan6
-PART=xc6slx16-2csg324
-WORKINGDIR=C:\Users\Administrator\Desktop\ECE492\HaneenWork\uart_tx-master_v2\UART_TX_Final
-LICENSE=WebPack
-USER_INFO=178019539_202162045_0_162

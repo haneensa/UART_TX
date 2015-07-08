@@ -1,1 +1,0 @@
-vhdtdtfi -prj UART_TX_Final -o C:/Users/pc/Documents/UART/UART_TX_Final/baud_generator.vhi -module baud_generator -template C:/Xilinx/14.5/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work baud_generator.vhd -lib work ipcore_dir/clock66M/example_design/clock66M_exdes.vhd 

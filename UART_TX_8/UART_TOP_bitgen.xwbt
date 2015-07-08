@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=C:\Users\pc\Documents\UART\UART\UART_TX\backup\uart_tx\UART_TX_Final\UART_TOP.ncd
-OUTFILE=C:\Users\pc\Documents\UART\UART\UART_TX\backup\uart_tx\UART_TX_Final\UART_TOP.bit
-FAMILY=Spartan6
-PART=xc6slx16-2csg324
-WORKINGDIR=C:\Users\pc\Documents\UART\UART\UART_TX\backup\uart_tx\UART_TX_Final
-LICENSE=WebPack
-USER_INFO=__0_0_0
